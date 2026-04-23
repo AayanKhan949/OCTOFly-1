@@ -1,4 +1,3 @@
-<img width="1408" height="768" alt="Gemini_Generated_Image_jrwfwgjrwfwgjrwf" src="https://github.com/user-attachments/assets/460ffb77-e415-4ea0-ba2b-a201e026acdf" />
 
 # OctoFly
 
