@@ -31,6 +31,9 @@ Servo Motors (MG90)
 3d printed parrts
 Steel wire
 
+How to USE?
+Umn..regarding this its not yet sure but as per yet thought and planned, there will be two controllers one FlySky i6 for drone control and one for the control of limbs. Maybe we can do that in single also(yet not finalised)
+
 (The materials are tentative and doen't include materials like wires solder etc.)<img width="1918" height="938" alt="Screenshot 2026-04-23 010301" src="https://github.com/user-attachments/assets/5dd2c4f8-1fea-44e9-8027-89be7cac56c9" />
 <img width="1919" height="941" alt="Screenshot 2026-04-23 001743" src="https://github.com/user-attachments/assets/18e30004-eb43-41da-935b-81524a686dcd" />
 <img width="1919" height="929" alt="Screenshot 2026-04-23 001719" src="https://github.com/user-attachments/assets/c77145b6-e20a-489f-a976-4a7a04816261" />
