@@ -37,5 +37,10 @@ Umn..regarding this its not yet sure but as per yet thought and planned, there w
 (The materials are tentative and doen't include materials like wires solder etc.)<img width="1918" height="938" alt="Screenshot 2026-04-23 010301" src="https://github.com/user-attachments/assets/5dd2c4f8-1fea-44e9-8027-89be7cac56c9" />
 <img width="1919" height="941" alt="Screenshot 2026-04-23 001743" src="https://github.com/user-attachments/assets/18e30004-eb43-41da-935b-81524a686dcd" />
 <img width="1919" height="929" alt="Screenshot 2026-04-23 001719" src="https://github.com/user-attachments/assets/c77145b6-e20a-489f-a976-4a7a04816261" />
-<img width="2000" height="1409" alt="2" src="https://github.com/user-attachments/assets/daf27bb7-cca9-40f6-89f6-eee2d36bbd58" />
-<img width="2000" height="1409" alt="1" src="https://github.com/user-attachments/assets/fc7cb524-b891-47b9-bd1a-9a9f1c82a3b5" />
+
+<img width="2000" height="1409" alt="1" src="https://github.com/user-attachments/assets/3ce2d934-9407-4774-870d-5deef44eff9a" />
+
+
+<img width="2000" height="1409" alt="2" src="https://github.com/user-attachments/assets/d333d91e-6734-4c82-80e9-7db6529b1f46" />
+
+<img width="2000" height="1410" alt="3" src="https://github.com/user-attachments/assets/4479eed9-986b-4352-83c9-320817a1b4a7" />
