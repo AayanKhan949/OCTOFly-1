@@ -6,7 +6,7 @@ A flying Octopus, Like it would be a HEXACOPTER but with the octopus inspired li
 
 What it is?
 
-It is ultimately a HEXACOPTER that has multi joint limbs named Octolimb. Like ordinary robo finger bots that has generally 3joints in it, but octolimb have 15+(estimate) joinmts that helps it grab any object with multi-side grabbing potential(much like an octopus)
+It is ultimately a HEXACOPTER that has multi joint limbs named Octolimb. Like ordinary robo finger bots that has generally 3joints in it, but octolimb have 15+(estimate) joints that helps it grab any object with multi-side grabbing potential(much like an octopus)
 
 How It works?
 In human fingers we know that we can fold nd release it by the contraction and relaxation of nerves that pulls or releases the muscles as per need, in the similar way in Octolimb we use multi joint different sizer parts with a symetrical shape that acts like the bones for the robolimb(even tho octopuslimbs doesn't have bones in their limb). So this system would be attached below the hexacopter and would help in carrying any object with octolimbs...As it has six side motors so it helps to keep the drone balanced even when the Center of Mass shifts due to Object grab..creating a smooth flight..
