@@ -38,9 +38,13 @@ Umn..regarding this its not yet sure but as per yet thought and planned, there w
 
 (The materials are tentative and doen't include materials like wires solder etc.)<img width="1918" height="938" alt="Screenshot 2026-04-23 010301" src="https://github.com/user-attachments/assets/5dd2c4f8-1fea-44e9-8027-89be7cac56c9" />
 <img width="1919" height="941" alt="Screenshot 2026-04-23 001743" src="https://github.com/user-attachments/assets/18e30004-eb43-41da-935b-81524a686dcd" />
-<img width="1919" height="929" alt="Screenshot 2026-04-23 001719" src="https://github.com/user-attachments/assets/c77145b6-e20a-489f-a976-4a7a04816261" />
+<img width="1613" height="898" alt="Screenshot 2026-04-29 232208" src="https://github.com/user-attachments/assets/df017c57-aa4b-4618-a79b-c81e8c796a4d" />
+<img width="1619" height="911" alt="Screenshot 2026-04-29 232143" src="https://github.com/user-attachments/assets/44e7db95-8792-47d5-8cb4-78485718e1c4" />
+<img width="485" height="697" alt="Screenshot 2026-04-29 232124" src="https://github.com/user-attachments/assets/e910fd11-fc7a-4811-b98c-7da5a03af952" />
 
-<img width="2000" height="1410" alt="octofly" src="https://github.com/user-attachments/assets/4acfe804-b4bc-4be9-93a7-f65f214fd42f" />
+
+<img width="2000" height="1409" alt="1" src="https://github.com/user-attachments/assets/eec1e7f4-f1c5-4a63-98b4-c201341d046a" />
+
 
 
 
