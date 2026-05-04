@@ -18,6 +18,14 @@ It is ultimately made ass a defence bot of rescue bot.
 For rescue:- It can be used to send materials o objects that are needy for the survivors with a better grip that any other robot.
 For defence- It can be used to collect confidential data from enemy bases without human involvement in enemy bases. As it collects object from multiple directions so it would bring objects with better grip.
 
+How it may look?
+<img width="1075" height="617" alt="Screenshot 2026-05-04 221315-Photoroom" src="https://github.com/user-attachments/assets/d59f0606-c1b9-42ce-b49b-e59aa8db8107" />
+ik it looks wierd but hopefully it will look good irl when it would become a complete product:)
+
+Zine Page:
+<img width="1545" height="2000" alt="OctoFly Zine" src="https://github.com/user-attachments/assets/333e25cb-dde1-46e1-9719-425b91d67694" />
+
+
 
 Materials required? (For drone)
 FlySkyi6 (for drone)
@@ -32,22 +40,11 @@ Servo Motors (MG90)
 3d printed parrts
 Steel wire
 
+(For detailed info about the materials..refer to the BOM in the repo)
+
 How to USE?
 Umn..regarding this its not yet sure but as per yet thought and planned, there will be two controllers one FlySky i6 for drone control and one for the control of limbs. Maybe we can do that in single also(yet not finalised)
 
 
-(The materials are tentative and doen't include materials like wires solder etc.)<img width="1918" height="938" alt="Screenshot 2026-04-23 010301" src="https://github.com/user-attachments/assets/5dd2c4f8-1fea-44e9-8027-89be7cac56c9" />
-<img width="1919" height="941" alt="Screenshot 2026-04-23 001743" src="https://github.com/user-attachments/assets/18e30004-eb43-41da-935b-81524a686dcd" />
-<img width="1613" height="898" alt="Screenshot 2026-04-29 232208" src="https://github.com/user-attachments/assets/df017c57-aa4b-4618-a79b-c81e8c796a4d" />
-<img width="1619" height="911" alt="Screenshot 2026-04-29 232143" src="https://github.com/user-attachments/assets/44e7db95-8792-47d5-8cb4-78485718e1c4" />
-<img width="485" height="697" alt="Screenshot 2026-04-29 232124" src="https://github.com/user-attachments/assets/e910fd11-fc7a-4811-b98c-7da5a03af952" />
+(The materials are tentative and doen't include materials like wires solder etc.)
 
-
-<img width="2000" height="1409" alt="1" src="https://github.com/user-attachments/assets/eec1e7f4-f1c5-4a63-98b4-c201341d046a" />
-
-
-
-
-<img width="2000" height="1409" alt="2" src="https://github.com/user-attachments/assets/d333d91e-6734-4c82-80e9-7db6529b1f46" />
-
-<img width="2000" height="1410" alt="3" src="https://github.com/user-attachments/assets/4479eed9-986b-4352-83c9-320817a1b4a7" />
