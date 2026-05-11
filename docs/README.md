@@ -53,7 +53,8 @@ Then you need to create a circuit diagram of the project with all the parts you 
 Circuit of hexacopter :
 <img width="2000" height="1414" alt="OctoFlyCircuit (1)" src="https://github.com/user-attachments/assets/05167854-094e-4d91-b4e4-2caa419ab8d0" />
 Circuit of OctoLimb :
-
+<img width="959" height="712" alt="OctolimCircuit" src="https://github.com/user-attachments/assets/37fec028-7329-4872-945a-68ce8b2ad91c" />
+Now u have the project's digital overview ready and you just need to gather all the materials and start building it in real as per planned digitally..
 (For detailed info about the materials..refer to the BOM in the repo)
 
 How to USE?
