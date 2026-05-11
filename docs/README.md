@@ -42,7 +42,7 @@ Servo Motors (MG90)
 3d printed parrts
 Steel wire
 
-How to make it?
+How to build it?
 
 Firstly U need to design the CAD of the robot with proper measurement..
 The Cad of my project is :
@@ -55,9 +55,10 @@ Circuit of hexacopter :
 Circuit of OctoLimb :
 <img width="959" height="712" alt="OctolimCircuit" src="https://github.com/user-attachments/assets/37fec028-7329-4872-945a-68ce8b2ad91c" />
 Now u have the project's digital overview ready and you just need to gather all the materials and start building it in real as per planned digitally..
-(For detailed info about the materials..refer to the BOM in the repo)
+To replicate the project and assemble it you just need to download and grab the files in the repo..The repo consists of everthing including the BOM, Circuit, Code, CAD.. everything that will help you replicate..
 
-How to USE?
+
+How to use it?
 Umn..regarding this its not yet sure but as per yet thought and planned, there will be two controllers one FlySky i6 for drone control and one for the control of limbs. Maybe we can do that in single also(yet not finalised)
 
 
