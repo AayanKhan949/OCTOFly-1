@@ -25,6 +25,8 @@ ik it looks wierd but hopefully it will look good irl when it would become a com
 Zine Page:
 <img width="1545" height="2000" alt="OctoFly Zine" src="https://github.com/user-attachments/assets/333e25cb-dde1-46e1-9719-425b91d67694" />
 
+Circuit Diagram :
+<img width="2000" height="1414" alt="OctoFlyCircuit (1)" src="https://github.com/user-attachments/assets/524fadd0-8be9-4a22-be8b-db4890b10160" />
 
 
 Materials required? (For drone)
