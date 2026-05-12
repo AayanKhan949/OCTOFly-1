@@ -76,3 +76,4 @@ Umn..regarding this its not yet sure but as per yet thought and planned, there w
 
 (The materials are tentative and doen't include materials like wires solder etc.)
 
+NOTE : All the Calculations and Validations , testiing methods of The project are given in the docs/Engineering Validations. Refer to those before replicating.
