@@ -47,10 +47,13 @@ ik it looks wierd but hopefully it will look good irl when it would become a com
 Firstly U need to design the CAD of the robot with proper measurement..
 # The Cad of my project is :
 <img width="853" height="707" alt="Screenshot 2026-05-11 230817" src="https://github.com/user-attachments/assets/d2f06edb-e6e6-420a-9789-4117e45dec9a" />
+
 Then U need to find out the parts or materials required and make a BOM..
 # This is the BOM of OctoFly:
 <img width="805" height="407" alt="BOM SS" src="https://github.com/user-attachments/assets/79cb4302-15f1-485a-81bb-fb9dce893e39" />
+
 Then you need to create a circuit diagram of the project with all the parts you made list of..In OctoFly we have two circuit diagrams..One for Hexacopter and another for Octolimb..
+
 
 
 # Circuit of hexacopter
