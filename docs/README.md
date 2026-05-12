@@ -12,7 +12,7 @@ It is ultimately a HEXACOPTER that has multi joint limbs named Octolimb. Like or
 In human fingers we know that we can fold nd release it by the contraction and relaxation of nerves that pulls or releases the muscles as per need, in the similar way in Octolimb we use multi joint different sizer parts with a symetrical shape that acts like the bones for the robolimb(even tho octopuslimbs doesn't have bones in their limb). So this system would be attached below the hexacopter and would help in carrying any object with octolimbs...As it has six side motors so it helps to keep the drone balanced even when the Center of Mass shifts due to Object grab..creating a smooth flight..
 
 
-# Why is it made?
+# Why it is made?
 
 It is ultimately made ass a defence bot of rescue bot.
 For rescue:- It can be used to send materials o objects that are needy for the survivors with a better grip that any other robot.
