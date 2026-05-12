@@ -18,6 +18,18 @@ It is ultimately made ass a defence bot of rescue bot.
 For rescue:- It can be used to send materials o objects that are needy for the survivors with a better grip that any other robot.
 For defence- It can be used to collect confidential data from enemy bases without human involvement in enemy bases. As it collects object from multiple directions so it would bring objects with better grip.
 
+Why have we used a hexacopter rather than a quadcopter?
+We have used hexacopter in our project rather than using a quadcopter as it has a lot of advantages.
+Some of the advantages are:
+It has higher payload capacity,
+It is more smooth system,
+It has better yaw authority,
+It is safer even if one motor fails.
+
+
+Due to these reasons we use a hexacopter in our project.
+
+
 How it may look?
 <img width="1075" height="617" alt="Screenshot 2026-05-04 221315-Photoroom" src="https://github.com/user-attachments/assets/d59f0606-c1b9-42ce-b49b-e59aa8db8107" />
 ik it looks wierd but hopefully it will look good irl when it would become a complete product:)
