@@ -42,7 +42,7 @@ ik it looks wierd but hopefully it will look good irl when it would become a com
 
 
 
-# How to build it?
+# Step by step How to build it?
 
 Firstly U need to design the CAD of the robot with proper measurement..
 # The Cad of my project is :
