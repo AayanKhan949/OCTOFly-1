@@ -1,3 +1,5 @@
+# Battery Validation
+
 # The battery is of 6000mAh 40C
 
 # Max discharge 
